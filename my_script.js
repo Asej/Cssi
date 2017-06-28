@@ -24,6 +24,6 @@ function eatCookies(){
 var text =$('.myClass');
 
 var colorButton = $(".color")
-eatButton.on("click",function (){
+colorButton.on("click",function (){
   text.toggleClass("green");
 });

@@ -3,3 +3,9 @@ h1{color: blue;
   text-indent: 16px;
 
 }
+.hidden { display: none;
+
+}
+.green{
+color: green
+}

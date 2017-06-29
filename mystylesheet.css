@@ -9,3 +9,19 @@ h1{color: blue;
 .green{
 color: green
 }
+ol{
+  color:rgb(332,45,111);
+  font-style: bold;
+  font-size: 40px;
+}
+p{
+  color: green;
+  font-size: 60px;
+}
+div {
+  border: 7px dashed blue;
+border-radius: 10px;
+ }
+ol{
+  padding: 30px 88px 113px 263px;
+}

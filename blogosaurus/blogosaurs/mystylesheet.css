@@ -1,0 +1,16 @@
+h1{color: blue;
+}
+.green{
+color: green
+}
+ol{
+  color:rgb(332,45,111);
+  font-style: bold;
+}
+p{
+  color: green;
+}
+div {
+  border: 7px dashed blue;
+border-radius: 10px;
+ }

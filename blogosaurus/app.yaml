@@ -10,16 +10,16 @@ handlers:
   upload: favicon\.ico
 
 - url: /blogosaurs/error-sadPizza\.jpg
-  static_files: blogosaurs\error-sadPizza.jpg
-  upload: blogosaurs\error-sadPizza.jpg
+  static_files: blogosaurs/error-sadPizza.jpg
+  upload: blogosaurs/error-sadPizza.jpg
 
 - url: /blogosaurs/mystylesheet\.css
-  static_files: blogosaurs\mystylesheet.css
-  upload: blogosaurs\mystylesheet.css
+  static_files: blogosaurs/mystylesheet.css
+  upload: blogosaurs/mystylesheet.css
 
-- url: /blogosaurs\blogosaurs\.html
-  static_files: blogosaurs\blogosaurs.html
-  upload: blogosaurs\blogosaurs.html
+- url: /blogosaurs/blogosaurs\.html
+  static_files: blogosaurs/blogosaurs.html
+  upload: blogosaurs/blogosaurs.html
 
 - url: .*
   script: main.app
